@@ -4,6 +4,6 @@ Lazypeople is an organization founded by young people who are lazy to create som
 # **Our Member(s)**
 | Name | Roles |
 |--|--|
-| [@AnggaaIs](https://github.com/AnggaaIs)| Developer |
-| [@devstore1207](https://github.com/devstore1207) | Developer
-| [@jeremy776](https://github.com/jeremy776) | Developer
+| [@AnggaaIs](https://github.com/AnggaaIs)| Backend Developer |
+| [@devstore1207](https://github.com/devstore1207) | UI/UX
+| [@jeremy776](https://github.com/jeremy776) | Frontend Developer
