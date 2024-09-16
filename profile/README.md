@@ -4,6 +4,7 @@ Lazypeople is an organization founded by young people who are lazy to create som
 # Projects
 - [Confession Bot Whatsapp](https://confessionbot.xyz/)
 - [Wisata Lampung](https://wila.web.id/)
+- [Cek Khodam](https://check-khodam-seven.vercel.app/)
 
 # **Our Team(s)**
 | Name | Roles |
