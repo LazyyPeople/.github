@@ -1,7 +1,11 @@
 # Hi, we're Lazy People 👋
 Lazypeople is an organization founded by young people who are lazy to create something
 
-# **Our Member(s)**
+# Projects
+- [Confession Bot Whatsapp](https://confessionbot.xyz/)
+- [Wisata Lampung](https://wila.web.id/)
+
+# **Our Team(s)**
 | Name | Roles |
 |--|--|
 | [@AnggaaIs](https://github.com/AnggaaIs)| Backend Developer |
