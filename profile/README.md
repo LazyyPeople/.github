@@ -28,7 +28,7 @@
 ### 🦥 About Lazy People
 
 > *"Progress isn't made by early risers. It's made by lazy people trying to find easier ways to do something."*  
-> — **Robert A. Heinlein**
+> - **Robert A. Heinlein**
 
 Kami adalah sebuah kolektif developer & kreator yang percaya bahwa rasa malas terhadap pekerjaan repetitif adalah motivasi terbaik untuk menciptakan automasi dan inovasi digital. 
 
